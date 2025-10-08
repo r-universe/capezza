@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ActiveLearning4SPM"]
+	path = ActiveLearning4SPM
+	url = https://github.com/cran/ActiveLearning4SPM
